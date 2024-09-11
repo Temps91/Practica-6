@@ -15,3 +15,7 @@ Aqui vemos ingles pa todo
 Princiios de Composicion y Diseño
 Melo Ortiz Dora Roberto
 Aqui vemos photoshop y cositas asi
+
+Proyecto semestral desarrollo de aplicaciones interactivas
+Mejia Hernandez Sebastian
+Aqui vemos overleaf de que full tranqui y esta muy cool
