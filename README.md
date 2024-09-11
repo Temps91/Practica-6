@@ -19,3 +19,4 @@ Aqui vemos photoshop y cositas asi
 Proyecto semestral desarrollo de aplicaciones interactivas
 Mejia Hernandez Sebastian
 Aqui vemos overleaf de que full tranqui y esta muy cool
+https://github.com/Temps91/Practica-6
